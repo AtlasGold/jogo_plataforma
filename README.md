@@ -17,7 +17,7 @@ Este é um jogo de plataforma simples desenvolvido em Python, utilizando a bibli
 
 2. **Crie um ambiente virtual**.:
 ```bash
-    python -m venv venv
+    python3 -m venv venv
     source venv/bin/activate  # No Windows: venv\Scripts\activate
 
 ```
