@@ -11,8 +11,8 @@ Este é um jogo de plataforma simples desenvolvido em Python, utilizando a bibli
 
 1. **Clone o repositório**:
 ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone git@github.com:AtlasGold/jogo_plataforma.git
+   cd jogo_plataforma
 ```
 
 2. **Crie um ambiente virtual**.:
